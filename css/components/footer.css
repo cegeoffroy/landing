@@ -1,0 +1,29 @@
+.footer {
+  background-color: #042f4b;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.footer-container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  margin: 0px 10px;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(200,200,200);
+}
+
+.list-inline i:hover {
+  color: rgb(20,20,20);
+}
